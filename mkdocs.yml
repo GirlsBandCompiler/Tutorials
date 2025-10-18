@@ -112,6 +112,7 @@ nav:
       - 对偶单纯形法: polyhedral/maths/dual-simplex.md
       - 带参数的单纯形法: polyhedral/maths/simplex-extended.md
       - 多面体: polyhedral/maths/polyhedron.md
+      - 等式约束消除: polyhedral/maths/equality-elimination.md
       - Barvinok 算法: polyhedral/maths/barvinok.md
     - Presburger 算术:
       - 简介: polyhedral/presburger/intro.md
